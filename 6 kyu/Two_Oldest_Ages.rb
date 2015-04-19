@@ -3,3 +3,5 @@ def two_oldest_ages(ages)
   ages.sort!
   return ages.last(2)
 end
+
+# Returns greatest two values of array
